@@ -204,7 +204,7 @@
       "array": [
         0,
         0,
-        649.519052838329,
+        246.08767193836104,
         0,
         0,
         0,
@@ -2108,7 +2108,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": false,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "Label 渐变色",
     "_N$string": "Label 渐变色",
     "_fontSize": 30,
@@ -2523,7 +2524,8 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_useOriginalSize": false,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_string": "图片/文字\n渐变色\n的一种实现",
     "_N$string": "图片/文字\n渐变色\n的一种实现",
     "_fontSize": 100,
